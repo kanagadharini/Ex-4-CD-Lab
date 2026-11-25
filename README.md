@@ -69,7 +69,8 @@ void yyerror(const char *msg) {
 ```
 
 # Output
-<img width="905" height="455" alt="image" src="https://github.com/user-attachments/assets/0b19b5be-3397-4092-ad07-ac8519dd4b51" />
+<img width="1600" height="793" alt="WhatsApp Image 2026-11-25 at 11 44 56 PM" src="https://github.com/user-attachments/assets/28145b29-5db8-4ad3-aafb-8b06bc0f00d8" />
+
 
 
 
